@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HttpClientRequest 测试"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.884">
+  <properties />
+  
+  
+            <testcase name="postLogin on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.884" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+      
+</testsuite>

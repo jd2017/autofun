@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="2.313" errors="0" skipped="0" tests="1" name="TestSuite">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="24.71-b01"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/iosTest/Desktop/bai/Worksp/autofun"/>
+    <property name="java.runtime.version" value="1.7.0_71-b14"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="basedir" value="/Users/iosTest/Desktop/bai/Worksp/autofun"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="surefire.real.class.path" value="/var/folders/f1/wftxfrrj0y994bpj1rdrfrs00000gn/T/surefirebooter1077697214608275935.jar"/>
+    <property name="java.io.tmpdir" value="/var/folders/f1/wftxfrrj0y994bpj1rdrfrs00000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/iosTest/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="surefire.test.class.path" value="/Users/iosTest/Desktop/bai/Worksp/autofun/target/test-classes:/Users/iosTest/Desktop/bai/Worksp/autofun/target/classes:/Users/iosTest/.m2/repository/junit/junit/4.0/junit-4.0.jar:/Users/iosTest/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12.jar:/Users/iosTest/.m2/repository/com/google/inject/guice/4.0/guice-4.0.jar:/Users/iosTest/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/iosTest/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/iosTest/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/Users/iosTest/.m2/repository/velocity/velocity-dep/1.4/velocity-dep-1.4.jar:/Users/iosTest/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/iosTest/.m2/repository/org/testng/testng/6.8.5/testng-6.8.5.jar:/Users/iosTest/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/iosTest/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/Users/iosTest/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:/Users/iosTest/.m2/repository/org/uncommons/reportng/1.1.4/reportng-1.1.4.jar:/Users/iosTest/.m2/repository/velocity/velocity/1.4/velocity-1.4.jar:/Users/iosTest/.m2/repository/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar:/Users/iosTest/.m2/repository/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar:/Users/iosTest/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/Users/iosTest/.m2/repository/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.jar:/Users/iosTest/.m2/repository/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar:/Users/iosTest/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar:/Users/iosTest/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/iosTest/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar:/Users/iosTest/.m2/repository/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar:/Users/iosTest/.m2/repository/org/apache/poi/poi/3.10.1/poi-3.10.1.jar:"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.11.3"/>
+    <property name="user.home" value="/Users/iosTest"/>
+    <property name="user.timezone" value="Asia/Chongqing"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="iosTest"/>
+    <property name="java.class.path" value="/Users/iosTest/Desktop/bai/Worksp/autofun/target/test-classes:/Users/iosTest/Desktop/bai/Worksp/autofun/target/classes:/Users/iosTest/.m2/repository/junit/junit/4.0/junit-4.0.jar:/Users/iosTest/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12.jar:/Users/iosTest/.m2/repository/com/google/inject/guice/4.0/guice-4.0.jar:/Users/iosTest/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/iosTest/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/iosTest/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/Users/iosTest/.m2/repository/velocity/velocity-dep/1.4/velocity-dep-1.4.jar:/Users/iosTest/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/iosTest/.m2/repository/org/testng/testng/6.8.5/testng-6.8.5.jar:/Users/iosTest/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/iosTest/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/Users/iosTest/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:/Users/iosTest/.m2/repository/org/uncommons/reportng/1.1.4/reportng-1.1.4.jar:/Users/iosTest/.m2/repository/velocity/velocity/1.4/velocity-1.4.jar:/Users/iosTest/.m2/repository/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar:/Users/iosTest/.m2/repository/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar:/Users/iosTest/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/Users/iosTest/.m2/repository/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.jar:/Users/iosTest/.m2/repository/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar:/Users/iosTest/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar:/Users/iosTest/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/iosTest/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar:/Users/iosTest/.m2/repository/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar:/Users/iosTest/.m2/repository/org/apache/poi/poi/3.10.1/poi-3.10.1.jar:"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="/var/folders/f1/wftxfrrj0y994bpj1rdrfrs00000gn/T/surefirebooter1077697214608275935.jar /var/folders/f1/wftxfrrj0y994bpj1rdrfrs00000gn/T/surefire2754136242215443074tmp /var/folders/f1/wftxfrrj0y994bpj1rdrfrs00000gn/T/surefire393311679240073270tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_71"/>
+    <property name="java.ext.dirs" value="/Users/iosTest/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="/Users/iosTest/.m2/repository"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="0.884" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" name="postLogin on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]"/>
+</testsuite>

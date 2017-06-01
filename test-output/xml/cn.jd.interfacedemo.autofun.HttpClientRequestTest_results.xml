@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HttpClientRequest 测试"
+           tests="50"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.306">
+  <properties />
+  
+  
+            <testcase name="postVehicle on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.099" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getShakeLevel on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.054" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postNewPWD on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.045" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="dateTest on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.014" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getUser on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.050" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTrippage on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.140" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getRelation on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.105" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getLocation on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.056" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postBind on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.285" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getLogout on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.038" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postUserRegister on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.047" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postStyle on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.047" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getModelId on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.362" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTriplast on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.076" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getVehicle on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.077" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getBrands on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.370" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getActivity on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.769" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postMessagedelete on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.047" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTriptotal on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.062" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTerminalStatus on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.054" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postTiming on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.049" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getDrivingRemind on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="5.071" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getFeedback on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.152" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getMessagenotification on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.051" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getWeeks on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.052" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getMessagenew on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.048" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postMileage on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.077" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getSetting on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.052" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postLogin on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.103" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postFenceupdate on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.046" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postFencedelete on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.065" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getInfoWeeks on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.069" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postCaptcha on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.074" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getStatus on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.054" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postFenceadd on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.054" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTerminal on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.070" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getBrandId on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.165" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postSwitch on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.072" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postFeedback on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.079" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getPush on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.061" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getCondition on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.117" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTriptrack on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.300" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postUpdateUser on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.162" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postUpdatePwd on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.056" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postChangeLanguage on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.054" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getTriplastinfo on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.064" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postRegister on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.041" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="postMessagenotification on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.058" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getMessagecategory on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.082" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+                <testcase name="getFencelist on cn.jd.interfacedemo.autofun.HttpClientRequestTest[name=InstrumentDriverTestCase,maxpri=10]" time="0.111" classname="cn.jd.interfacedemo.autofun.HttpClientRequestTest" />
+      
+</testsuite>
