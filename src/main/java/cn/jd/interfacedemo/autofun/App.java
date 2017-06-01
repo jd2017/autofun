@@ -22,7 +22,7 @@ public class App
         Map<String,Object> map = new HashMap<String,Object>();
         map.put("1","test");
         map.put("3", "num");
-        map.put("true", "boolean");
+        map.put("false", "boolean");
         Set<String> key = map.keySet();
         for (Iterator<String> it = key.iterator(); it.hasNext();) {
 			String s = (String) it.next();
