@@ -19,7 +19,7 @@ public class App
         
 		StringBuilder sb = new StringBuilder();
 		sb.append("[");
-        Map map = new HashMap();
+        Map<String,Object> map = new HashMap<String,Object>();
         map.put("1","test");
         map.put("3", "num");
         map.put("true", "boolean");
