@@ -13,7 +13,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello World" );
         String name = "呵呵\\...";
         System.out.println(name.replaceAll("\\.","/"));
         
